@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Another fairly useless blog</title>
+    <link>https://jsurmann.github.io/tags/</link>
+    <description>Recent content in Tags on Another fairly useless blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://jsurmann.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://jsurmann.github.io/hello-world/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jsurmann.github.io/hello-world/</guid>
+      <description>&lt;p&gt;This is a article for test purposes only.&lt;/p&gt;
+&lt;p&gt;I hope this will not be my last post.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+  </channel>
+</rss>
