@@ -1,33 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Another fairly useless blog</title>
+    <title>Posts on Another fairly useless page</title>
     <link>https://jsurmann.github.io/posts/</link>
-    <description>Recent content in Posts on Another fairly useless blog</description>
+    <description>Recent content in Posts on Another fairly useless page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jsurmann.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
-      <title>Hello World</title>
-      <link>https://jsurmann.github.io/hello-world/</link>
-      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <title>Growing Rye</title>
+      <link>https://jsurmann.github.io/growing-rye/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jsurmann.github.io/hello-world/</guid>
-      <description>&lt;p&gt;This is an article for testing purposes only.&lt;/p&gt;
-&lt;p&gt;I hope this will not be my last post.&lt;/p&gt;
+      <guid>https://jsurmann.github.io/growing-rye/</guid>
+      <description>&lt;p&gt;Since we have our own flour mill, I have been fascinated by grain. Small kernels that can be stored for a long time and become seed again when needed. In 2021 I decided to grow summer rye in our garden on 10 sqm. Over 3 kg of whole grain flour was the result.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jsurmann.github.io/img/rye0.jpg&#34; alt=&#34;Rye cultivation&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jsurmann.github.io/img/rye1.jpg&#34; alt=&#34;Rye cultivation&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jsurmann.github.io/img/rye2.jpg&#34; alt=&#34;Rye cultivation&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jsurmann.github.io/img/rye3.jpg&#34; alt=&#34;Rye cultivation&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jsurmann.github.io/img/rye4.jpg&#34; alt=&#34;Rye cultivation&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jsurmann.github.io/img/rye5.jpg&#34; alt=&#34;Rye cultivation&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Based on the good experience with the rye, I decided to plant sweet corn in 2022. The straw from the rye is reused as mulch.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jsurmann.github.io/img/corn0.jpg&#34; alt=&#34;Corn cultivation&#34;&gt;&lt;/p&gt;
 </description>
     </item>
-    
-    
-    
-    
-    
-    
     
     
   </channel>
